@@ -1,3 +1,6 @@
-# My Awesome Book
+# 数据库表设计规范
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+由于iUAP与UAP平台的区别，对数据库表的设计规范也略有不同，所以本文作为智能制造开发组的建表依据。
+
+
+
